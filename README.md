@@ -1,4 +1,4 @@
-# Phone:(217)-850-7547 Email:xl939@cornell.edu
+### Phone:(217)-850-7547 Email:xl939@cornell.edu
 
 #### Technical Skills:  Python, R, C, C++, Java, SQL, Tableau, Bloomberg, LaTeX, Wind
 
