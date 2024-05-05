@@ -1,13 +1,12 @@
 ### Phone:(217)-850-7547           Email: xl939@cornell.edu
 
-#### Technical Skills:  Python, R, C, C++, Java, SQL, Tableau, Bloomberg, LaTeX, Wind
+### Technical Skills:  Python, R, C, C++, Java, SQL, Tableau, Bloomberg, LaTeX, Wind
 
 ## Education
 - ### Cornell University, College of Engineering, Ithaca, NY (_December 2024_)
   Master of Engineering in Financial Engineering
   
-  _Selected Coursework_: Quantitative Methods of Financial Risk Mgmt, OR Tools for Financial Engineering, Python for Finance, Fixed Income Securities and Interest Rate Options, Intro to Machine Learning, Monte 
-  Carlo Simulation
+  _Selected Coursework_: Quantitative Methods of Financial Risk Mgmt, OR Tools for Financial Engineering, Python for Finance, Fixed Income Securities and Interest Rate Options, Intro to Machine Learning, Monte Carlo Simulation
 - ### University of Illinois Urbana-Champaign, Champaign, IL (_May 2023_)
   Bachelor of Science in Mathematics & Statistics, Magna Cum Laude, GPA: 3.97
   
@@ -39,17 +38,17 @@
 Supervisor: Prof. A J Hildebrand from UIUC
 - Performed statistical analysis of continued fraction digits of pi with 30 billion digits using three methods, analyzed the statistical rules presented using Python modeling, investigated the randomness of pi, and wrote a paper
 - Chi-square type tests: performed Chi-square type tests on different blocks by changing the number of digits (expanded to 100M, 1B, 30B) and the number of blocks (expanded to 100, 1000, 10000) to get the corresponding p-values, and found that p-values followed the uniform distribution through analysis using Q-Q plot 
-- Single-digit statistics and z-scores test: focusing on occurrences of a single digit d in a sequence of CF digits, performed z-score test on same parameters as the chi-square functions; applied the KS test to obtain a p-value corresponding to the fit to measure how close the actual list of z-scores was to a normal distribution
+- Single-digit statistics and z-scores test: focusing on occurrences of a single digit d in a sequence of CF digits, performed the z-score test on same parameters as the chi-square functions; applied the KS test to obtain a p-value corresponding to the fit to measure how close the actual list of z-scores was to a normal distribution
 - Extreme value statistics test: obtained the experimental value by finding the quartiles of each block, obtained the theoretical value (simulated digits that had the Gauss-Kuzmin distribution) by coding in Python, and determined that the digits of pi behave like those of a random real number based on the fact that the difference between two values was slight
-- Created a presentation using Latex and presented our research progress at Illinois Geometry Lab
-- Made a poster and presented it to receive feedback that could further our research at Undergraduate Research Symposium
-- Organized our research work and created a poster with my teammates for MAA Undergraduate Student Poster Session
+- Created a presentation using Latex and presented our research progress at the Illinois Geometry Lab
+- Made a poster and presented it to receive feedback that could further our research at the Undergraduate Research Symposium
+- Organized our research work and created a poster with my teammates for the MAA Undergraduate Student Poster Session
 
 
 ## Projects
 ### Machine Learning and Credit Risk Research
 
-Handled data preprocessing and feature engineering in Python, applied various machine learning algorithms to analyze historical bank loan records to identify correlations between lending behaviors and default risks.
+Handled data preprocessing and feature engineering in Python, and applied various machine learning algorithms to analyze historical bank loan records to identify correlations between lending behaviors and default risks.
 
 ### AQR Momentum Strategy Research
 
@@ -58,7 +57,7 @@ Implemented and backtested long-short momentum strategies, achieving an annualiz
 ## Campus Experience
 ### Student Union  Head of Public Relations Department, University of Illinois at Urbana-Champaign
 
-Organized six campus cultural events, managed event rehearsals, coordinated with more than ten sponsors to raise $10,000 in event sponsorships.
+Organized six campus cultural events, managed event rehearsals, and coordinated with more than ten sponsors to raise $10,000 in event sponsorships.
 
 ### Advanced Calculus Teaching Assistant
 
