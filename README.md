@@ -47,8 +47,21 @@ Supervisor: Prof. A J Hildebrand from UIUC
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Machine Learning and Credit Risk Research
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Handled data preprocessing and feature engineering in Python, applied various machine learning algorithms to analyze historical bank loan records to identify correlations between lending behaviors and default risks.
+
+### AQR Momentum Strategy Research
+
+Implemented and backtested long-short momentum strategies, achieving an annualized return of 15.5% and a win rate of 78.9% in AQR Capital Management's retail momentum fund.
+
+## Campus Experience
+### Student Union  Head of Public Relations Department, University of Illinois at Urbana-Champaign
+
+Organized six campus cultural events, managed event rehearsals, coordinated with more than ten sponsors to raise $10,000 in event sponsorships.
+
+### Advanced Calculus Teaching Assistant
+
+Assisted students with course problems, and graded assignments, and was recognized as an Outstanding Teaching Assistant.
+
 
